@@ -1,5 +1,6 @@
 import mycologistData from '../../helpers/data/mycologistData';
 import utils from '../../helpers/utils';
+// import mycologistMushroomData from '../../helpers/data/mycologistMushroomData';
 
 import './singleMycologist.scss';
 
